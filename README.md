@@ -5,204 +5,204 @@
 
 [![Dr. Ciencias de la Motricidad Humana](https://img.shields.io/badge/Dr.-Motricidad%20Humana-1a6b3a?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/Csav20)
 [![Mg. Rendimiento Humano](https://img.shields.io/badge/Mg.-Rendimiento%20Humano-0d6efd?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://github.com/Csav20)
-[![ActionSmart](https://img.shields.io/badge/ACTIONSMARTÂ®-Research%20Lab-00c853?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/Csav20)
-[![CAR Chile](https://img.shields.io/badge/CAR%20Chile-Lab.%20FisiologÃ­a%20%7C%20InnovaciÃ³n-00897b?style=for-the-badge&logo=experiment&logoColor=white)](https://github.com/Csav20)
-[![Chile](https://img.shields.io/badge/ð¨ð±-Chile%20Â·%20Since%202010-d52b1e?style=for-the-badge)](https://github.com/Csav20)
+[![ActionSmart](https://img.shields.io/badge/ACTIONSMART®-Research%20Lab-00c853?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/Csav20)
+[![CAR Chile](https://img.shields.io/badge/CAR%20Chile-Lab.%20Fisiología%20%7C%20Innovación-00897b?style=for-the-badge&logo=experiment&logoColor=white)](https://github.com/Csav20)
+[![Chile](https://img.shields.io/badge/🇨🇱-Chile%20·%20Since%202010-d52b1e?style=for-the-badge)](https://github.com/Csav20)
 
 </div>
 
 ---
 
-## ð¨âð¬ Sobre mÃ­
+## 👨‍🔬 Sobre mí
 
-Soy **Doctor en Ciencias de la Motricidad Humana** y **MagÃ­ster en Ciencias de la Actividad FÃ­sica y Deporte aplicadas al Entrenamiento, RehabilitaciÃ³n y Reintegro Deportivo**, con formaciÃ³n en la **Universidad de Chile**, la **Escuela Internacional de EducaciÃ³n FÃ­sica y Deporte de La Habana, Cuba**, y actualmente vinculado a la **Universidad Santo TomÃ¡s**.
+Soy **Doctor en Ciencias de la Motricidad Humana** y **Magíster en Ciencias de la Actividad Física y Deporte aplicadas al Entrenamiento, Rehabilitación y Reintegro Deportivo**, con formación en la **Universidad de Chile**, la **Escuela Internacional de Educación Física y Deporte de La Habana, Cuba**, y actualmente vinculado a la **Universidad Santo Tomás**.
 
-Desarrollo funciones en el **Laboratorio de FisiologÃ­a** y el **Laboratorio de InnovaciÃ³n Deportiva** del **Centro de Alto Rendimiento de Chile (CAR)**, donde aplico tecnologÃ­a de anÃ¡lisis fisiolÃ³gico directamente en el contexto del deporte de Ã©lite nacional.
+Desarrollo funciones en el **Laboratorio de Fisiología** y el **Laboratorio de Innovación Deportiva** del **Centro de Alto Rendimiento de Chile (CAR)**, donde aplico tecnología de análisis fisiológico directamente en el contexto del deporte de élite nacional.
 
-Combino dÃ©cadas de ciencia del deporte con innovaciÃ³n tecnolÃ³gica: fui **entrenador nacional de Gimnasia TrampolÃ­n**, soy **fundador de BFR Chile** (2010), creador de suplementos deportivos **Muscle Guard**, y desarrollador de herramientas digitales de anÃ¡lisis fisiolÃ³gico con patente activa y ventas internacionales.
+Combino décadas de ciencia del deporte con innovación tecnológica: fui **entrenador nacional de Gimnasia Trampolín**, soy **fundador de BFR Chile** (2010), creador de suplementos deportivos **Muscle Guard**, y desarrollador de herramientas digitales de análisis fisiológico con patente activa y ventas internacionales.
 
-Desarrollo metodologÃ­as, dispositivos y software que democratizan el acceso a la ciencia del rendimiento humano.
+Desarrollo metodologías, dispositivos y software que democratizan el acceso a la ciencia del rendimiento humano.
 
-> *"Construyo puentes entre la fisiologÃ­a del ejercicio, la tecnologÃ­a embebida y la inteligencia artificial para llevar la ciencia del deporte a quienes mÃ¡s la necesitan."*
+> *"Construyo puentes entre la fisiología del ejercicio, la tecnología embebida y la inteligencia artificial para llevar la ciencia del deporte a quienes más la necesitan."*
 
 ---
 
-## ð Trayectoria
+## 🏆 Trayectoria
 
 <table>
   <tr>
-    <td>ð</td>
+    <td>🎓</td>
     <td><strong>Dr. Ciencias de la Motricidad Humana</strong></td>
     <td>Ciencias del movimiento humano</td>
   </tr>
   <tr>
-    <td>ð</td>
+    <td>🎓</td>
     <td><strong>Mg. Ciencias del Rendimiento Humano</strong></td>
-    <td>Entrenamiento Â· RehabilitaciÃ³n Â· Reintegro Deportivo</td>
+    <td>Entrenamiento · Rehabilitación · Reintegro Deportivo</td>
   </tr>
   <tr>
-    <td>ð</td>
-    <td><strong>Licenciado en Cultura FÃ­sica</strong></td>
-    <td>Escuela Internacional de Ed. FÃ­sica y Deporte â La Habana, Cuba</td>
+    <td>🎓</td>
+    <td><strong>Licenciado en Cultura Física</strong></td>
+    <td>Escuela Internacional de Ed. Física y Deporte — La Habana, Cuba</td>
   </tr>
   <tr>
-    <td>ð«</td>
-    <td><strong>Profesor de EducaciÃ³n FÃ­sica</strong></td>
-    <td>Universidad de Chile Â· Universidad Santo TomÃ¡s</td>
+    <td>🏫</td>
+    <td><strong>Profesor de Educación Física</strong></td>
+    <td>Universidad de Chile · Universidad Santo Tomás</td>
   </tr>
   <tr>
-    <td>ð¤¸</td>
+    <td>🤸</td>
     <td><strong>Ex Entrenador Nacional</strong></td>
-    <td>Gimnasia TrampolÃ­n â SelecciÃ³n de Chile</td>
+    <td>Gimnasia Trampolín — Selección de Chile</td>
   </tr>
   <tr>
-    <td>ðï¸</td>
+    <td>🏟️</td>
     <td><strong>Centro de Alto Rendimiento Chile (CAR)</strong></td>
-    <td>Lab. de FisiologÃ­a Â· Lab. de InnovaciÃ³n Deportiva</td>
+    <td>Lab. de Fisiología · Lab. de Innovación Deportiva</td>
   </tr>
   <tr>
-    <td>ð©¸</td>
-    <td><strong>Director Action Smart Â· Fundador BFR Chile</strong></td>
-    <td>Desde 2010 â innovaciÃ³n en Blood Flow Restriction</td>
+    <td>🩸</td>
+    <td><strong>Director Action Smart · Fundador BFR Chile</strong></td>
+    <td>Desde 2010 — innovación en Blood Flow Restriction</td>
   </tr>
   <tr>
-    <td>ð©º</td>
-    <td><strong>RehabilitaciÃ³n y Reintegro Deportivo</strong></td>
-    <td>Protocolos clÃ­nicos para retorno al deporte de Ã©lite</td>
+    <td>🩺</td>
+    <td><strong>Rehabilitación y Reintegro Deportivo</strong></td>
+    <td>Protocolos clínicos para retorno al deporte de élite</td>
   </tr>
 </table>
 
 ---
 
-## ð« VO2Smart PRO â Proyecto Flagship
+## 🫁 VO2Smart PRO — Proyecto Flagship
 
 <div align="center">
 
-### Primera plataforma CPET portÃ¡til near-clinical a 1/15 del costo del gold standard
+### Primera plataforma CPET portátil near-clinical a 1/15 del costo del gold standard
 
 [![Patente](https://img.shields.io/badge/Patente-CL%202024024875-gold?style=for-the-badge&logo=certificate&logoColor=black)](https://github.com/Csav20/Vo2Smart-Interfaz)
 [![TRL](https://img.shields.io/badge/TRL%207-Near--Clinical%20Operacional-00c853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Csav20/Vo2Smart-Interfaz)
-[![Ventas](https://img.shields.io/badge/2%20Ventas-Realizadas%20â-0d6efd?style=for-the-badge)](https://github.com/Csav20/Vo2Smart-Interfaz)
+[![Ventas](https://img.shields.io/badge/2%20Ventas-Realizadas%20✓-0d6efd?style=for-the-badge)](https://github.com/Csav20/Vo2Smart-Interfaz)
 [![Normas](https://img.shields.io/badge/12%20Normas-ISO%2FATS%2FACSM-ff6f00?style=for-the-badge)](https://github.com/Csav20/Vo2Smart-Interfaz)
 
 </div>
 
-### ð Comparativa vs. Gold Standard
+### 📊 Comparativa vs. Gold Standard
 
 | Indicador | VO2Smart PRO | Cortex MetaLyzer 3B | COSMED K5 |
 |---|---|---|---|
-| ð° **Precio** | **~$2,500 USD** | â¬35,000 | â¬18,000 |
-| ð¯ **Efectividad** | **96% vs Cortex** | 100% (ref.) | ~98% |
-| âï¸ **Peso** | **~200g** | >1 kg | >1 kg |
-| ð¡ **MediciÃ³n** | **Breath-by-Breath** | Breath-by-Breath | Breath-by-Breath |
-| ð **Consumibles** | **Sin consumibles** | SÃ­ | SÃ­ |
-| ð **Licencia** | **Sin licencia** | Anual | Anual |
-| ð¸ **Ahorro TCO 3 aÃ±os** | **â¬37,400 vs gold** | â | â |
+| 💰 **Precio** | **~$2,500 USD** | €35,000 | €18,000 |
+| 🎯 **Efectividad** | **96% vs Cortex** | 100% (ref.) | ~98% |
+| ⚖️ **Peso** | **~200g** | >1 kg | >1 kg |
+| 📡 **Medición** | **Breath-by-Breath** | Breath-by-Breath | Breath-by-Breath |
+| 🔁 **Consumibles** | **Sin consumibles** | Sí | Sí |
+| 📄 **Licencia** | **Sin licencia** | Anual | Anual |
+| 💸 **Ahorro TCO 3 años** | **€37,400 vs gold** | — | — |
 
-### ðºï¸ Hoja de ruta
+### 🗺️ Hoja de ruta
 
 | Estado | Hito |
 |---|---|
-| â TRL 5-6 | Prototipo validado en laboratorio |
-| â **TRL 7** | **Operacional Â· 2 ventas realizadas â AQUÃ** |
-| â­ Ahora | ValidaciÃ³n n=50 Â· Bland-Altman Â· ICC â¥ 0.90 Â· ETM < 5% |
-| ð Q2-Q3 2026 | PublicaciÃ³n en revista ISI |
-| ð Q4 2026 | CertificaciÃ³n CE/ISP â TRL 8 |
-| ð¯ TRL 9 | Producto certificado Â· ComercializaciÃ³n global |
+| ✅ TRL 5-6 | Prototipo validado en laboratorio |
+| ✅ **TRL 7** | **Operacional · 2 ventas realizadas ← AQUÍ** |
+| ⭐ Ahora | Validación n=50 · Bland-Altman · ICC ≥ 0.90 · ETM < 5% |
+| 🔜 Q2-Q3 2026 | Publicación en revista ISI |
+| 🔜 Q4 2026 | Certificación CE/ISP → TRL 8 |
+| 🎯 TRL 9 | Producto certificado · Comercialización global |
 
-### ð¬ Specs tÃ©cnicas
+### 🔬 Specs técnicas
 
-| ParÃ¡metro | Valor |
+| Parámetro | Valor |
 |---|---|
-| Firmware | v5.2 producciÃ³n Â· 2,803 lÃ­neas auditadas |
-| Bugs histÃ³ricos | 43 identificados y corregidos |
-| EstÃ¡ndares | 12 normas ISO/ATS/ACSM implementadas |
-| ROI | RecuperaciÃ³n en 1 mes (25 tests Ã â¬100) |
-| Ahorro a 3 aÃ±os | 94% vs gold standard |
+| Firmware | v5.2 producción · 2,803 líneas auditadas |
+| Bugs históricos | 43 identificados y corregidos |
+| Estándares | 12 normas ISO/ATS/ACSM implementadas |
+| ROI | Recuperación en 1 mes (25 tests × €100) |
+| Ahorro a 3 años | 94% vs gold standard |
 
-### ð¦ Repositorios del ecosistema
+### 📦 Repositorios del ecosistema
 
-| Repositorio | DescripciÃ³n | Stack |
+| Repositorio | Descripción | Stack |
 |---|---|---|
-| [**Vo2Smart-Interfaz**](https://github.com/Csav20/Vo2Smart-Interfaz) | Interfaz web CPET Â· anÃ¡lisis cardiopulmonar y calorimetrÃ­a indirecta | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| [**vo2Procesador**](https://github.com/Csav20/vo2Procesador) | Motor breath-by-breath Â· procesamiento VO2 en tiempo real | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
-| [**vt1-vt2**](https://github.com/Csav20/vt1-vt2) | DetecciÃ³n automÃ¡tica de umbrales ventilatorios VT1/VT2 y VO2max | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
-| [**server-lactnir**](https://github.com/Csav20/server-lactnir) | Backend para anÃ¡lisis de lactato en sangre con sensor NIR | ![Server](https://img.shields.io/badge/Backend-333333?style=flat&logo=server&logoColor=white) |
+| [**Vo2Smart-Interfaz**](https://github.com/Csav20/Vo2Smart-Interfaz) | Interfaz web CPET · análisis cardiopulmonar y calorimetría indirecta | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| [**vo2Procesador**](https://github.com/Csav20/vo2Procesador) | Motor breath-by-breath · procesamiento VO2 en tiempo real | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| [**vt1-vt2**](https://github.com/Csav20/vt1-vt2) | Detección automática de umbrales ventilatorios VT1/VT2 y VO2max | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| [**server-lactnir**](https://github.com/Csav20/server-lactnir) | Backend para análisis de lactato en sangre con sensor NIR | ![Server](https://img.shields.io/badge/Backend-333333?style=flat&logo=server&logoColor=white) |
 
 ---
 
-## ð¡ Monitor MetabÃ³lico en Tiempo Real
+## 📡 Monitor Metabólico en Tiempo Real
 
-> Democratizar el conocimiento metabÃ³lico â transformar cada dato en conocimiento procesable
+> Democratizar el conocimiento metabólico — transformar cada dato en conocimiento procesable
 
-| TecnologÃ­a | AplicaciÃ³n |
+| Tecnología | Aplicación |
 |---|---|
-| ð¶ Bluetooth Low Energy (BLE) | Conectividad con sensores corporales |
-| ð¤ Machine Learning | InterpretaciÃ³n y predicciÃ³n metabÃ³lica |
-| ð Procesamiento de seÃ±ales en tiempo real | AnÃ¡lisis breath-by-breath y biomÃ©trico |
-| ð¥ï¸ VisualizaciÃ³n de datos interactivos | Dashboards clÃ­nicos y deportivos |
-| âï¸ ComputaciÃ³n en la nube | Almacenamiento y anÃ¡lisis longitudinal |
+| 📶 Bluetooth Low Energy (BLE) | Conectividad con sensores corporales |
+| 🤖 Machine Learning | Interpretación y predicción metabólica |
+| 📈 Procesamiento de señales en tiempo real | Análisis breath-by-breath y biométrico |
+| 🖥️ Visualización de datos interactivos | Dashboards clínicos y deportivos |
+| ☁️ Computación en la nube | Almacenamiento y análisis longitudinal |
 
-**Impacto:** OptimizaciÃ³n del entrenamiento Â· PrevenciÃ³n de lesiones Â· Monitoreo de recuperaciÃ³n Â· PersonalizaciÃ³n de estrategias de salud
+**Impacto:** Optimización del entrenamiento · Prevención de lesiones · Monitoreo de recuperación · Personalización de estrategias de salud
 
 ---
 
-## ð SmartMotion Sport
+## 🏃 SmartMotion Sport
 
-> Sistema de anÃ¡lisis biomecÃ¡nico deportivo con IA y tecnologÃ­a embebida
+> Sistema de análisis biomecánico deportivo con IA y tecnología embebida
 
-| Repositorio | DescripciÃ³n | Stack |
+| Repositorio | Descripción | Stack |
 |---|---|---|
-| [**SmartMotion_Sport**](https://github.com/Csav20/SmartMotion_Sport) | Convergencia entre biomecÃ¡nica, IA y hardware embebido para anÃ¡lisis de rendimiento en tiempo real | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![AI](https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white) |
+| [**SmartMotion_Sport**](https://github.com/Csav20/SmartMotion_Sport) | Convergencia entre biomecánica, IA y hardware embebido para análisis de rendimiento en tiempo real | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![AI](https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white) |
 
 ---
 
-## ð Libro â Los DesafÃ­os No Resueltos del Rendimiento
+## 📖 Libro — Los Desafíos No Resueltos del Rendimiento
 
 <div align="center">
 
-[![SMT/SIR](https://img.shields.io/badge/Libro-SMT%2FSIR%20MetodologÃ­a%20Csav-9B59B6?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Csav20/LOS-DESAFIOS-NO-RESUELTOS-DEL-RENDIMIENTO)
-[![PÃ¡ginas](https://img.shields.io/badge/131%20pÃ¡ginas-LaTeX%20compilado-00c853?style=for-the-badge)](https://github.com/Csav20/LOS-DESAFIOS-NO-RESUELTOS-DEL-RENDIMIENTO)
+[![SMT/SIR](https://img.shields.io/badge/Libro-SMT%2FSIR%20Metodología%20Csav-9B59B6?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Csav20/LOS-DESAFIOS-NO-RESUELTOS-DEL-RENDIMIENTO)
+[![Páginas](https://img.shields.io/badge/131%20páginas-LaTeX%20compilado-00c853?style=for-the-badge)](https://github.com/Csav20/LOS-DESAFIOS-NO-RESUELTOS-DEL-RENDIMIENTO)
 [![Referencias](https://img.shields.io/badge/50%2B%20estudios-Peer--reviewed-0d6efd?style=for-the-badge)](https://github.com/Csav20/LOS-DESAFIOS-NO-RESUELTOS-DEL-RENDIMIENTO)
 
 </div>
 
-> *SincronizaciÃ³n Integral del Rendimiento (SIR) â Primera integraciÃ³n completa de psicologÃ­a conductual en documentaciÃ³n cientÃ­fica deportiva*
+> *Sincronización Integral del Rendimiento (SIR) — Primera integración completa de psicología conductual en documentación científica deportiva*
 
-### Modelo Csav â 4 Pilares FisiolÃ³gicos
+### Modelo Csav — 4 Pilares Fisiológicos
 
-| Pilar | Componente | Tiempo de AdaptaciÃ³n |
+| Pilar | Componente | Tiempo de Adaptación |
 |---|---|---|
-| **C** | ColÃ¡geno (ECM) | 8â18 semanas |
-| **S** | Stiffness elÃ¡stica | 4â8 semanas |
-| **a** | ActivaciÃ³n neural | 2â6 semanas |
-| **v** | VOâ control | Continuo |
+| **C** | Colágeno (ECM) | 8–18 semanas |
+| **S** | Stiffness elástica | 4–8 semanas |
+| **a** | Activación neural | 2–6 semanas |
+| **v** | VO₂ control | Continuo |
 
-- ð¦´ **SincronizaciÃ³n MÃºsculo-Tendinosa (SMT)** â Carga progresiva Â· tolerancia tendinosa Â· brecha mÃºsculo-tendÃ³n
-- ð§  **38 tÃ©cnicas psicolÃ³gicas** validadas cientÃ­ficamente para adherencia y transferencia conocimiento â aplicaciÃ³n
-- ð **14 capÃ­tulos** Â· 4 apÃ©ndices Â· 50+ estudios peer-reviewed Â· datos de 847,000+ atletas
-- ð¯ Dirigido a entrenadores, preparadores fÃ­sicos, kinesiÃ³logos y atletas de Ã©lite
+- 🦴 **Sincronización Músculo-Tendinosa (SMT)** — Carga progresiva · tolerancia tendinosa · brecha músculo-tendón
+- 🧠 **38 técnicas psicológicas** validadas científicamente para adherencia y transferencia conocimiento → aplicación
+- 📐 **14 capítulos** · 4 apéndices · 50+ estudios peer-reviewed · datos de 847,000+ atletas
+- 🎯 Dirigido a entrenadores, preparadores físicos, kinesiólogos y atletas de élite
 
 [![Ver repositorio](https://img.shields.io/badge/GitHub-LOS--DESAFIOS--NO--RESUELTOS-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Csav20/LOS-DESAFIOS-NO-RESUELTOS-DEL-RENDIMIENTO)
 
 ---
 
-## ð¡ Innovaciones fuera del cÃ³digo
+## 💡 Innovaciones fuera del código
 
 <div align="center">
 
-| InnovaciÃ³n | DescripciÃ³n |
+| Innovación | Descripción |
 |---|---|
-| ð« **VO2Smart PRO** | CPET portÃ¡til near-clinical Â· 96% efectividad vs Cortex Â· $2,500 USD Â· Patente CL 2024024875 Â· TRL 7 |
-| ð©¸ **BFR Chile** | Pionero y fundador del mÃ©todo Blood Flow Restriction en Chile desde 2010 Â· Director Action Smart |
-| ð **Libro SMT/SIR** | *Los DesafÃ­os No Resueltos del Rendimiento* Â· Modelo Csav Â· 131 pÃ¡gs Â· LaTeX Â· 38 tÃ©cnicas psicolÃ³gicas |
-| ð **Muscle Guard** | LÃ­nea de suplementos deportivos para rendimiento y recuperaciÃ³n muscular |
+| 🫁 **VO2Smart PRO** | CPET portátil near-clinical · 96% efectividad vs Cortex · $2,500 USD · Patente CL 2024024875 · TRL 7 |
+| 🩸 **BFR Chile** | Pionero y fundador del método Blood Flow Restriction en Chile desde 2010 · Director Action Smart |
+| 📖 **Libro SMT/SIR** | *Los Desafíos No Resueltos del Rendimiento* · Modelo Csav · 131 págs · LaTeX · 38 técnicas psicológicas |
+| 💊 **Muscle Guard** | Línea de suplementos deportivos para rendimiento y recuperación muscular |
 
 </div>
 
 ---
 
-## ð  Stack tecnolÃ³gico
+## 🛠 Stack tecnológico
 
 <div align="center">
 
@@ -222,7 +222,7 @@ Desarrollo metodologÃ­as, dispositivos y software que democratizan el acceso a
 
 ---
 
-## ð GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -239,24 +239,24 @@ Desarrollo metodologÃ­as, dispositivos y software que democratizan el acceso a
 
 ---
 
-## ð Ãreas de colaboraciÃ³n
+## 🌍 Áreas de colaboración
 
-- ð« **FisiologÃ­a del ejercicio + tecnologÃ­a** â CPET, wearables, anÃ¡lisis de gases, lactato
-- ð **ValidaciÃ³n clÃ­nica** â estudios Bland-Altman, ICC, certificaciÃ³n mÃ©dica
-- ð¤ **IA aplicada al deporte** â modelos predictivos de rendimiento, lesiÃ³n, recuperaciÃ³n
-- ð¦¾ **RehabilitaciÃ³n deportiva digital** â herramientas para retorno al juego basadas en datos
-- ð« **Ciencia abierta** â democratizaciÃ³n del acceso a instrumentaciÃ³n de laboratorio
+- 🫀 **Fisiología del ejercicio + tecnología** — CPET, wearables, análisis de gases, lactato
+- 📐 **Validación clínica** — estudios Bland-Altman, ICC, certificación médica
+- 🤖 **IA aplicada al deporte** — modelos predictivos de rendimiento, lesión, recuperación
+- 🦾 **Rehabilitación deportiva digital** — herramientas para retorno al juego basadas en datos
+- 🏫 **Ciencia abierta** — democratización del acceso a instrumentación de laboratorio
 
 ---
 
-## ð« Contacto
+## 📫 Contacto
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-csav20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csav20@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pabarca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabarca/)
 [![GitHub](https://img.shields.io/badge/GitHub-Csav20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Csav20)
-[![ActionSmart](https://img.shields.io/badge/ACTIONSMARTÂ®-Chile%20ð¨ð±-00c853?style=for-the-badge)](https://github.com/Csav20)
+[![ActionSmart](https://img.shields.io/badge/ACTIONSMART®-Chile%20🇨🇱-00c853?style=for-the-badge)](https://github.com/Csav20)
 
 </div>
 
@@ -266,7 +266,7 @@ Desarrollo metodologÃ­as, dispositivos y software que democratizan el acceso a
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,50:1a6b3a,100:0d1117&height=120&section=footer" width="100%"/>
 
-*"La ciencia sin aplicaciÃ³n es incompleta. La tecnologÃ­a sin ciencia, es ciega."*
+*"La ciencia sin aplicación es incompleta. La tecnología sin ciencia, es ciega."*
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Csav20.Csav20&color=00c853)
 
