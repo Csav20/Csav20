@@ -6,6 +6,7 @@
 [![Dr. Ciencias de la Motricidad Humana](https://img.shields.io/badge/Dr.-Motricidad%20Humana-1a6b3a?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/Csav20)
 [![Mg. Rendimiento Humano](https://img.shields.io/badge/Mg.-Rendimiento%20Humano-0d6efd?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://github.com/Csav20)
 [![ActionSmart](https://img.shields.io/badge/ACTIONSMARTÂ®-Research%20Lab-00c853?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/Csav20)
+[![CAR Chile](https://img.shields.io/badge/CAR%20Chile-Lab.%20FisiologÃ­a%20%7C%20InnovaciÃ³n-00897b?style=for-the-badge&logo=experiment&logoColor=white)](https://github.com/Csav20)
 [![Chile](https://img.shields.io/badge/ð¨ð±-Chile%20Â·%20Since%202010-d52b1e?style=for-the-badge)](https://github.com/Csav20)
 
 </div>
@@ -16,7 +17,9 @@
 
 Soy **Doctor en Ciencias de la Motricidad Humana** y **MagÃ­ster en Ciencias de la Actividad FÃ­sica y Deporte aplicadas al Entrenamiento, RehabilitaciÃ³n y Reintegro Deportivo**, con formaciÃ³n en la **Universidad de Chile**, la **Escuela Internacional de EducaciÃ³n FÃ­sica y Deporte de La Habana, Cuba**, y actualmente vinculado a la **Universidad Santo TomÃ¡s**.
 
-Combino dÃ©cadas de ciencia del deporte de Ã©lite con innovaciÃ³n tecnolÃ³gica: fui **entrenador nacional de Gimnasia TrampolÃ­n**, soy **fundador de BFR Chile** (2010), creador de suplementos deportivos **Muscle Guard**, y desarrollador de herramientas digitales de anÃ¡lisis fisiolÃ³gico con patente activa y ventas internacionales.
+Desarrollo funciones en el **Laboratorio de FisiologÃ­a** y el **Laboratorio de InnovaciÃ³n Deportiva** del **Centro de Alto Rendimiento de Chile (CAR)**, donde aplico tecnologÃ­a de anÃ¡lisis fisiolÃ³gico directamente en el contexto del deporte de Ã©lite nacional.
+
+Combino dÃ©cadas de ciencia del deporte con innovaciÃ³n tecnolÃ³gica: fui **entrenador nacional de Gimnasia TrampolÃ­n**, soy **fundador de BFR Chile** (2010), creador de suplementos deportivos **Muscle Guard**, y desarrollador de herramientas digitales de anÃ¡lisis fisiolÃ³gico con patente activa y ventas internacionales.
 
 Desarrollo metodologÃ­as, dispositivos y software que democratizan el acceso a la ciencia del rendimiento humano.
 
@@ -51,6 +54,11 @@ Desarrollo metodologÃ­as, dispositivos y software que democratizan el acceso a
     <td>ð¤¸</td>
     <td><strong>Ex Entrenador Nacional</strong></td>
     <td>Gimnasia TrampolÃ­n â SelecciÃ³n de Chile</td>
+  </tr>
+  <tr>
+    <td>ðï¸</td>
+    <td><strong>Centro de Alto Rendimiento Chile (CAR)</strong></td>
+    <td>Lab. de FisiologÃ­a Â· Lab. de InnovaciÃ³n Deportiva</td>
   </tr>
   <tr>
     <td>ð©¸</td>
@@ -149,18 +157,33 @@ Desarrollo metodologÃ­as, dispositivos y software que democratizan el acceso a
 
 ---
 
-## ð PrÃ³xima publicaciÃ³n
+## ð Libro â Los DesafÃ­os No Resueltos del Rendimiento
 
-> Marco metodolÃ³gico integrado para el rendimiento humano
+<div align="center">
 
-Trabajo en desarrollo sobre sincronizaciÃ³n adaptativa que unifica en un solo sistema:
+[![SMT/SIR](https://img.shields.io/badge/Libro-SMT%2FSIR%20MetodologÃ­a%20Csav-9B59B6?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Csav20/LOS-DESAFIOS-NO-RESUELTOS-DEL-RENDIMIENTO)
+[![PÃ¡ginas](https://img.shields.io/badge/131%20pÃ¡ginas-LaTeX%20compilado-00c853?style=for-the-badge)](https://github.com/Csav20/LOS-DESAFIOS-NO-RESUELTOS-DEL-RENDIMIENTO)
+[![Referencias](https://img.shields.io/badge/50%2B%20estudios-Peer--reviewed-0d6efd?style=for-the-badge)](https://github.com/Csav20/LOS-DESAFIOS-NO-RESUELTOS-DEL-RENDIMIENTO)
 
-- **AdaptaciÃ³n muscular** â hipertrofia, fuerza y potencia
-- **AdaptaciÃ³n tendinosa** â carga progresiva y tolerancia
-- **AdaptaciÃ³n neural** â coordinaciÃ³n y control motor
-- **Demanda metabÃ³lica real** â gasto energÃ©tico y vÃ­as metabÃ³licas
+</div>
 
-*Para entrenadores, preparadores fÃ­sicos, kinesiÃ³logos y atletas que buscan rendimiento sin comprometer salud.*
+> *SincronizaciÃ³n Integral del Rendimiento (SIR) â Primera integraciÃ³n completa de psicologÃ­a conductual en documentaciÃ³n cientÃ­fica deportiva*
+
+### Modelo Csav â 4 Pilares FisiolÃ³gicos
+
+| Pilar | Componente | Tiempo de AdaptaciÃ³n |
+|---|---|---|
+| **C** | ColÃ¡geno (ECM) | 8â18 semanas |
+| **S** | Stiffness elÃ¡stica | 4â8 semanas |
+| **a** | ActivaciÃ³n neural | 2â6 semanas |
+| **v** | VOâ control | Continuo |
+
+- ð¦´ **SincronizaciÃ³n MÃºsculo-Tendinosa (SMT)** â Carga progresiva Â· tolerancia tendinosa Â· brecha mÃºsculo-tendÃ³n
+- ð§  **38 tÃ©cnicas psicolÃ³gicas** validadas cientÃ­ficamente para adherencia y transferencia conocimiento â aplicaciÃ³n
+- ð **14 capÃ­tulos** Â· 4 apÃ©ndices Â· 50+ estudios peer-reviewed Â· datos de 847,000+ atletas
+- ð¯ Dirigido a entrenadores, preparadores fÃ­sicos, kinesiÃ³logos y atletas de Ã©lite
+
+[![Ver repositorio](https://img.shields.io/badge/GitHub-LOS--DESAFIOS--NO--RESUELTOS-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Csav20/LOS-DESAFIOS-NO-RESUELTOS-DEL-RENDIMIENTO)
 
 ---
 
@@ -172,6 +195,7 @@ Trabajo en desarrollo sobre sincronizaciÃ³n adaptativa que unifica en un solo 
 |---|---|
 | ð« **VO2Smart PRO** | CPET portÃ¡til near-clinical Â· 96% efectividad vs Cortex Â· $2,500 USD Â· Patente CL 2024024875 Â· TRL 7 |
 | ð©¸ **BFR Chile** | Pionero y fundador del mÃ©todo Blood Flow Restriction en Chile desde 2010 Â· Director Action Smart |
+| ð **Libro SMT/SIR** | *Los DesafÃ­os No Resueltos del Rendimiento* Â· Modelo Csav Â· 131 pÃ¡gs Â· LaTeX Â· 38 tÃ©cnicas psicolÃ³gicas |
 | ð **Muscle Guard** | LÃ­nea de suplementos deportivos para rendimiento y recuperaciÃ³n muscular |
 
 </div>
