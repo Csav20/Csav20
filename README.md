@@ -187,18 +187,62 @@ Desarrollo metodologías, dispositivos y software que democratizan el acceso a l
 
 ---
 
-## 💡 Innovaciones fuera del código
+## 🧠 Portafolio de Inventor
 
 <div align="center">
 
-| Innovación | Descripción |
-|---|---|
-| 🫁 **VO2Smart PRO** | CPET portátil near-clinical · 96% efectividad vs Cortex · $2,500 USD · Patente CL 2024024875 · TRL 7 |
-| 🩸 **BFR Chile** | Pionero y fundador del método Blood Flow Restriction en Chile desde 2010 |
-| 📖 **Libro SMT/SIR** | *Los Desafíos No Resueltos del Rendimiento* · Modelo Csav · 131 págs · LaTeX · 38 técnicas psicológicas |
-| 💊 **Muscle Guard** | Línea de suplementos deportivos para rendimiento y recuperación muscular |
+**18 sistemas y dispositivos originales · 5 dominios tecnológicos · Desde 2010**
 
 </div>
+
+### 🫁 Biomédico & Fisiológico
+
+| Invento | Descripción técnica |
+|---|---|
+| 🫁 **VO2Smart PRO** | CPET portátil near-clinical · 96% vs Cortex · $2,500 USD · Patente CL 2024024875 · TRL 7 |
+| 🧬 **ThoraxAI Monitor** | Análisis acústico pulmonar con ML · clasificación de estertores/sibilancias · ESP32 + Orange Pi + BLE |
+| 📡 **Monitor Metabólico Inteligente** | Wearable metabólico en tiempo real · BLE · Machine Learning predictivo |
+| 🔊 **Sistema Ultrasónico Torácico** | Medición respiratoria por ultrasonido · integración con señales fisiológicas multimodales |
+
+### 💻 Computación & IA
+
+| Invento | Descripción técnica |
+|---|---|
+| 🔲 **ExaGrid3D** | Computación y manufactura distribuida · red de nodos SBC + manufactura aditiva |
+| ⚡ **ActionBooster** | Plataforma híbrida IA local · inferencia edge · prescripción de ejercicio basada en evidencia |
+| 🧬 **ABARCA** | Arquitectura bioinspirada avanzada de cómputo · procesamiento paralelo adaptativo |
+| 🖥️ **Arquitectura Mac+SBC híbrida** | Mac como nodo de síntesis · SBC como agentes inteligentes · balanceo térmico + fallback |
+
+### 🦾 Robótica & Biomecánica
+
+| Invento | Descripción técnica |
+|---|---|
+| 🤖 **Brazo Robótico 6 Ejes (Dyneema)** | Transmisión por cuerdas de alta resistencia · joystick tipo jet · sin motores distales |
+| 🚴 **Prótesis para Ciclismo** | Mecanismo funcional de dedo índice · optimización aerodinámica · diseño deportivo |
+| ✋ **ST3P Modificado** | Mano protésica mecánica rediseñada · tendones TPU impresos · funcionalidad aumentada |
+
+### ❄️ Hardware & Térmica
+
+| Invento | Descripción técnica |
+|---|---|
+| 🐙 **Pulpo Venturi** | Refrigeración avanzada SBC por efecto Venturi · disipación sin partes móviles |
+| 🧊 **Refrigeración Criogénica Venturis** | Sistema criogénico en cadena · enfriamiento extremo para cómputo embebido |
+
+### 🏭 Ingeniería & Minería
+
+| Invento | Descripción técnica |
+|---|---|
+| 📡 **Escaneo WiFi 3D de Minas** | Reconstrucción volumétrica por RF · opera en humo/polvo/oscuridad total · ML + tomografía RF |
+| ⚙️ **Red de Transmisión Cubo Rubik** | Sistema de transmisión mecánica modular y reconfigurable |
+| 🔥 **Esfera de Extinción Ultrasónica** | Extinción de incendios por ondas ultrasónicas · sin agentes químicos |
+
+### 📚 Metodología & Transferencia
+
+| Invento | Descripción técnica |
+|---|---|
+| 🩸 **BFR Chile** | Pionero y fundador del método Blood Flow Restriction en Chile · desde 2010 |
+| 📖 **Libro SMT/SIR** | *Los Desafíos No Resueltos del Rendimiento* · Modelo Csav · 131 págs · 38 técnicas psicológicas |
+| 💊 **Muscle Guard** | Línea de suplementos deportivos para rendimiento y recuperación muscular |
 
 ---
 
