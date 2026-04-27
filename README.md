@@ -62,7 +62,7 @@ Desarrollo metodologías, dispositivos y software que democratizan el acceso a l
   </tr>
   <tr>
     <td>🩸</td>
-    <td><strong>Director Action Smart · Fundador BFR Chile</strong></td>
+    <td><strong>Fundador BFR Chile</strong></td>
     <td>Desde 2010 — innovación en Blood Flow Restriction</td>
   </tr>
   <tr>
@@ -194,7 +194,7 @@ Desarrollo metodologías, dispositivos y software que democratizan el acceso a l
 | Innovación | Descripción |
 |---|---|
 | 🫁 **VO2Smart PRO** | CPET portátil near-clinical · 96% efectividad vs Cortex · $2,500 USD · Patente CL 2024024875 · TRL 7 |
-| 🩸 **BFR Chile** | Pionero y fundador del método Blood Flow Restriction en Chile desde 2010 · Director Action Smart |
+| 🩸 **BFR Chile** | Pionero y fundador del método Blood Flow Restriction en Chile desde 2010 |
 | 📖 **Libro SMT/SIR** | *Los Desafíos No Resueltos del Rendimiento* · Modelo Csav · 131 págs · LaTeX · 38 técnicas psicológicas |
 | 💊 **Muscle Guard** | Línea de suplementos deportivos para rendimiento y recuperación muscular |
 
